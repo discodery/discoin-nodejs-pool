@@ -1,0 +1,8 @@
+.nav-side-menu .brand {
+    line-height: normal;
+}
+
+.nav-side-menu .brand img {
+    height: 40px;
+    margin: 5px 10px;
+}

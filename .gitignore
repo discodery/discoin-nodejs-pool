@@ -1,0 +1,7 @@
+.github
+config.json.bak
+package-lock.json
+node_modules/
+build/
+.idea/
+logs/
