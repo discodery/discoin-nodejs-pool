@@ -19,7 +19,6 @@ High performance Node.js (with native C addons) mining pool for Discoin. Forked 
   * [Upgrading](#upgrading)
 * [JSON-RPC Commands from CLI](#json-rpc-commands-from-cli)
 * [Monitoring Your Pool](#monitoring-your-pool)
-* [Donations](#donations)
 * [Credits](#credits)
 * [License](#license)
 
